@@ -173,6 +173,6 @@ Follow these steps to set up and run the project locally. You will need Java (JD
 
 ## Contact
 For any questions or support, please contact:
-- Basavaraj, Chidanand
-- bbasavarajnayak64@gmail.com , chidanandagl11@gmail.com
+- Chidanand
+- chidanandagl11@gmail.com
 -  Repository Link: https://github.com/chidanand111/Deliver-While-You-Commute
